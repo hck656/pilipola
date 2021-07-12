@@ -23,11 +23,11 @@ Just a noob Back end development engineer
  -->
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=duktig666&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=pilipola&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 ## Languages
 <a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipola&theme=vue" />
 </a>
 
 
